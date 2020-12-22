@@ -1,5 +1,5 @@
 {
-    "name": "xetaio/xetaravel-mentions",
+    "name": "bordesf/xetaravel-mentions",
     "description": "A package to parse a @mention from a text and mention the user with a notification.",
     "keywords": [
         "laravel",
@@ -24,8 +24,8 @@
     ],
     "require": {
         "php": "^7.2.5",
-        "illuminate/support": "^7.0",
-        "illuminate/database": "^7.0",
+        "illuminate/support": "^8.0",
+        "illuminate/database": "^8.0",
         "xety/configurator": "^1.0"
     },
     "require-dev": {
